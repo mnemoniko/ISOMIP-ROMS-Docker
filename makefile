@@ -63,7 +63,7 @@ ROMS_APPLICATION ?= ISOMIP_PLUS
 #  If application header files is not located in "ROMS/Include",
 #  provide an alternate directory FULL PATH.
 
-MY_HEADER_DIR ?= /home/user/Applications
+MY_HEADER_DIR ?= /home/user/Input
 
 #  If your application requires analytical expressions and they are
 #  not located in "ROMS/Functionals", provide an alternate directory.
